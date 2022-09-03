@@ -1,0 +1,1 @@
+{"label":"CUSTOM_TIME", "pattern":[{"LIKE_NUM": "True"}, {"LIKE_NUM": "True"}, {"LOWER":{"REGEX": "^[ap]m$"}}]}
